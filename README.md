@@ -3,3 +3,4 @@ This website is support website for Locutus which is a discord bot for the game 
 ## Features:
 - Basic Server setup
 - Common server command list
+- Basic Command Tutorial
